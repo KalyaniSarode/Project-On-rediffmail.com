@@ -1,0 +1,11 @@
+//////Application URL//////
+
+sAppURL=http://www.money.rediff.com/
+
+//////Username//////
+
+Username = klayaniss98@rediffmail.com
+
+//////Password//////
+
+Password = Kalls2998#
